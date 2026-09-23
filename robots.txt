@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://falemonlg.com/sitemap.xml
